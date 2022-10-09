@@ -9,4 +9,9 @@
         width: 1440px;
         margin: 0 auto;
     }
+    
+    .selected-jobs {
+        margin-top: 64px;
+        width: 503px;
+    }
 }

@@ -1,0 +1,11 @@
+p {
+    font-size: var(--text-2);
+    font-weight: var(--weight-3);
+    color: var(--color-grey-2);
+}
+
+small {
+    font-size: var(--text-3);
+    font-weight: var(--weight-3);
+    color: var(--color-grey-2);
+}

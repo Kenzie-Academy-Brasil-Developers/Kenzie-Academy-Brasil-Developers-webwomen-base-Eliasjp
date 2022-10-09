@@ -1,0 +1,17 @@
+h2 {
+    font-size: var(--title-3);
+    font-weight: var(--weight-1);
+    color: var(--color-grey-3);
+}
+
+h3 {
+    font-size: var(--title-4);
+    font-weight: var(--weight-1);
+    color: var(--color-grey-1);
+}
+
+h4 {
+    font-size: var(--title-5);
+    font-weight: var(--weight-1);
+    color: var(--color-grey-1);
+}

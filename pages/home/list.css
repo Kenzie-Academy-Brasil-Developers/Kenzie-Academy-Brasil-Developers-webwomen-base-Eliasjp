@@ -1,0 +1,54 @@
+.container {
+    margin-top: 43px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.job-card {
+    padding: 38px;
+}
+
+.liInfo {
+    margin-top: 18px;
+}
+
+.job-enterprise {
+    margin-right: 32px;
+}
+
+.job-description {
+    margin-top: 28px;
+}
+
+.job-footer {
+    margin-top: 28px;
+}
+
+.modalities-span{
+    display: inline;
+    margin-right: 10px;
+    background-color: var(--color-grey-3);
+    padding: 4px 12px;
+    border-radius: var(--radius-default);
+}
+
+.job-info {
+    display: inline;
+}
+
+.job-apply {
+    display: flex;
+    align-items: center;
+    height: 38px;
+    margin-top: 32px;
+    padding: 7px 28px;
+    background-color: var(--color-brand-1);
+    border: 2px solid var(--color-brand-1);
+    border-radius: var(--radius-default);
+    color: var(--color-grey-6);
+    font-size: var(--text-2);
+    font-weight: var(--weight-2);
+    font-family: 'Poppins';
+}

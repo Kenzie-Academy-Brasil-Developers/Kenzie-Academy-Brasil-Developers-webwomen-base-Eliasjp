@@ -1,0 +1,13 @@
+.bg-img {
+    border-radius: var(--radius-default);
+    min-width: 100%;
+    height: 789px;
+    position: absolute;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.header-bg {
+    position: relative;
+    z-index: 0;
+}

@@ -1,0 +1,12 @@
+@media(min-width: 1440px){
+    .headerContainer {
+        display: flex;
+        justify-content: center;
+    }
+
+    .allJobs {
+        display: flex;
+        width: 1440px;
+        margin: 0 auto;
+    }
+}

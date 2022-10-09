@@ -1,0 +1,24 @@
+.main-header {
+    position: relative;
+    height: 789px;
+    padding: 99.5px 0px 118.53px 16px;
+}
+
+header > h2 {
+    margin-top: 60px;
+    color: var(--color-grey-3);
+}
+
+header > p {
+    margin-top: 32px;
+    color: var(--color-grey-5);
+}
+
+.go-job-section {
+    margin-top: 60px;
+    background-color: var(--color-brand-1);
+    padding: 12px 50px;
+    border: 2px solid var(--color-brand-1);
+    border-radius: var(--radius-default);
+    color: var(--color-grey-6);
+}
